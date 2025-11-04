@@ -6,7 +6,6 @@ This proof-of-concept (PoC) explores how explainable machine learning models
 (such as Decision Trees and SHAP) can support reliable AI-driven operations (AIOps)
 by providing transparent reasoning for anomaly detection.
 
-Developed as preliminary work for the University of Manchester MPhil project:
 **"Towards Explainable and Reliable AI-Driven Operations"**
 
 ## Structure
